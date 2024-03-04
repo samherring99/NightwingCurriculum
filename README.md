@@ -13,7 +13,7 @@ This repository holds the projects and course outline for the Nightwing AI/ML Cu
 
 ### Week 0: Data Collection, Organization, and Preprocessing ###
 #### __Day 1-2: Data Collection:__ ####
-Identify relevant datasets for NLP tasks.
+Identify relevant datasets for ML tasks
 Acquire datasets from sources like Kaggle, academic repositories, or web scraping.
 Ensure data quality and relevance to chosen tasks.
 
@@ -23,34 +23,25 @@ https://www.altexsoft.com/blog/data-collection-machine-learning/
 https://medium.com/codex/how-to-collect-data-for-a-machine-learning-model-2b152752a15b 
 
 #### Project:
-Implement a data collection pipeline from a sample source and play around with it
+Implement a data collection pipeline from a sample source.
 
-#### __Day 3-4: Data Organization and Preprocessing:__ ####
+#### __Day 3-7: Data Organization and Preprocessing:__ ####
 Organize acquired data into appropriate formats (e.g., CSV, JSON).
-Perform data cleaning tasks such as removing duplicates, handling missing values, and standardizing text formatting.
-Preprocess text data by tokenizing, removing stop words, and performing stemming or lemmatization as necessary.
+Perform data cleaning tasks such as removing duplicates, handling missing values, and standardizing.
 Split data into training, validation, and test sets.
-
-#### Readings: ####
-https://neptune.ai/blog/data-preprocessing-guide
-https://towardsdatascience.com/introduction-to-data-preprocessing-in-machine-learning-a9fa83a5dc9d
-https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/
-
-#### Project: ####
-Implement a data preprocessing pipeline as shown in the video
-
-#### __Day 5-7: Advanced Preprocessing Techniques:__ ####
 Explore advanced preprocessing techniques such as handling imbalanced datasets, dealing with noisy text, and incorporating domain-specific knowledge.
 Consider techniques like data augmentation to increase the diversity of training data.
 Implement preprocessing pipelines using libraries like NLTK, spaCy, or scikit-learn.
 
 #### Readings: ####
-https://www.analyticsvidhya.com/blog/2021/07/nltk-a-beginners-hands-on-guide-to-natural-language-processing/
+https://neptune.ai/blog/data-preprocessing-guide
+https://towardsdatascience.com/introduction-to-data-preprocessing-in-machine-learning-a9fa83a5dc9d
+https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/
 https://towardsdatascience.com/preprocessing-with-sklearn-a-complete-and-comprehensive-guide-670cb98fcfb9
 https://www.datacamp.com/tutorial/complete-guide-data-augmentation
 
 #### Project: ####
-Use sklearn or other advanced preprocessing techniques with data augmentation on a sample dataset
+Implement a data preprocessing pipeline from sklearn, use advanced preprocessing techniques with data augmentation on a sample dataset
 
 ### Week 1: Foundations of NLP and Word Embeddings ###
 #### __Day 1-2: Review basics of NLP: tokenization, stemming, lemmatization.__ ####
