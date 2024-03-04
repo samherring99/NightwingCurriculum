@@ -12,15 +12,16 @@ This repository holds the projects and course outline for the Nightwing AI/ML Cu
 ## Course Outline ##
 
 ### Week 0: Data Collection, Organization, and Preprocessing ###
+
 #### __Day 1-2: Data Collection:__ ####
 Identify relevant datasets for ML tasks
 Acquire datasets from sources like Kaggle, academic repositories, or web scraping.
 Ensure data quality and relevance to chosen tasks.
 
 #### Readings: ####
-https://labelyourdata.com/articles/data-collection-methods-AI 
-https://www.altexsoft.com/blog/data-collection-machine-learning/ 
-https://medium.com/codex/how-to-collect-data-for-a-machine-learning-model-2b152752a15b 
+[Data Collection](https://labelyourdata.com/articles/data-collection-methods-AI)
+[Data Collection Pt. 2](https://www.altexsoft.com/blog/data-collection-machine-learning/)
+[Data Collection Pt. 3](https://medium.com/codex/how-to-collect-data-for-a-machine-learning-model-2b152752a15b)
 
 #### Project:
 Implement a data collection pipeline from a sample source.
@@ -34,16 +35,17 @@ Consider techniques like data augmentation to increase the diversity of training
 Implement preprocessing pipelines using libraries like NLTK, spaCy, or scikit-learn.
 
 #### Readings: ####
-https://neptune.ai/blog/data-preprocessing-guide
-https://towardsdatascience.com/introduction-to-data-preprocessing-in-machine-learning-a9fa83a5dc9d
-https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/
-https://towardsdatascience.com/preprocessing-with-sklearn-a-complete-and-comprehensive-guide-670cb98fcfb9
-https://www.datacamp.com/tutorial/complete-guide-data-augmentation
+[NeptuneAI](https://neptune.ai/blog/data-preprocessing-guide)
+[TowardsDataSciece](https://towardsdatascience.com/introduction-to-data-preprocessing-in-machine-learning-a9fa83a5dc9d)
+[GeeksForGeeks](https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/)
+[TowardsDataSciece - sklearn](https://towardsdatascience.com/preprocessing-with-sklearn-a-complete-and-comprehensive-guide-670cb98fcfb9)
+[Data Augmentation](https://www.datacamp.com/tutorial/complete-guide-data-augmentation)
 
 #### Project: ####
 Implement a data preprocessing pipeline from sklearn, use advanced preprocessing techniques with data augmentation on a sample dataset
 
 ### Week 1: Foundations of NLP and Word Embeddings ###
+
 #### __Day 1-2: Review basics of NLP: tokenization, stemming, lemmatization.__ ####
 
 #### Readings: ####
