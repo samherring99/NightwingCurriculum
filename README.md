@@ -53,7 +53,7 @@ https://neptune.ai/blog/tokenization-in-nlp
 https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html
 
 #### Project: ####
-Recreate tokenizer following Karpathy video
+Recreate tokenizer following [Karpathy exercise](https://github.com/karpathy/minbpe/blob/master/exercise.md)
 
 
 #### __Day 3-4: Study word embeddings:__ ####
