@@ -66,7 +66,7 @@ https://nlp.stanford.edu/projects/glove/
 https://www.analyticsvidhya.com/blog/2017/07/word-representations-text-classification-using-fasttext-nlp-facebook/
 
 #### Project: ####
-Implement word2vec for embeddings and understand the outputs
+[Implement word2vec](https://towardsdatascience.com/word2vec-with-pytorch-implementing-original-paper-2cd7040120b0) for embeddings and understand the outputs
 
 
 #### __Day 5-7: Explore recent advancements:__ ####
@@ -77,7 +77,7 @@ Study BERT architecture and pre-training objectives.
 https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
 
 #### Project: ####
-Implement BERT and play around with it
+[Implement BERT](https://medium.com/data-and-beyond/complete-guide-to-building-bert-model-from-sratch-3e6562228891) and play around with it
 
 
 ### Week 2: Transformer Models and Advanced NLP Techniques ###
@@ -91,7 +91,7 @@ https://www.turing.com/kb/brief-introduction-to-transformers-and-their-power
 https://machinelearningmastery.com/the-transformer-attention-mechanism/
 
 #### Project: ####
-Follow Karpathy GPT video, rebuild GPT and play around with it
+Recreate [Karpathy GPT video](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 
 #### __Day 4-5: Explore advanced transformer-based models:__ ####
@@ -104,7 +104,7 @@ https://cameronrwolfe.substack.com/p/t5-text-to-text-transformers-part
 https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335
 
 #### Project: ####
-Implement a T5 model and play around with it
+[Implement a T5 model](https://github.com/conceptofmind/t5-pytorch) and play around with it
 
 #### __Day 6-7: Learn about fine-tuning and distillation:__ ####
 Techniques for fine-tuning pre-trained models for specific tasks.
