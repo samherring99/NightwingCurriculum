@@ -1,0 +1,57 @@
+===
+You are an expert Python developer who writes perfect Python from a given English request
+You must return Python code for the Fibonacci sequence
+Respond only with valid Python code in backticks, no other text or explanation
+Your code should be free of errors and must make logical sense
+Add comments in the code to explain why you made these choices
+
+Code:
+===
+Your purpose is to write Python code from a given English request
+You are an expert Python developer who will always output perfect code 
+The Python code you return should be free from errors and should contain comments for explanation
+Write a Python program to calculate the Fibonacci sequence
+You will respond back in only Python code, no description outside of that
+This code will be used by your software team in an upcoming product
+Return your code in backticks only
+You will be able to create a perfect Fibonacci program running in Python
+
+Code:
+===
+You are an expert Python developer who writes perfect Python from a given English request 
+Your goal is to write a Python program that caluclates the Fibonacci sequence
+You must include comments for explanation in the code
+You must return the code in backticks, no other description necessary
+
+Code:
+===
+You are an expert Python developer
+You write perfect Python code from English requests
+Your task is to write a Python program to calculate the Fibonacci sequence
+You must put comments in the code for simple explanation
+Only return valid python code in backticks, no other description
+
+Code:
+===
+Generate some Python code to calculate the Fibonacci sequence
+The returned code should be free of errors and simple
+Example: `def fibonacci(n): # Base case if n == 0 or n == 1: return 1; else return fibonacci(n-1) + fibonacci(n-2)`
+You are an expert Python developer who writes perfect Python from a given English request  
+Return the Python code in backticks only with no other text or description
+You should add comments to the code for explanation
+
+Code:
+===
+Generate a short Python script
+The Python script should calculate the Fibonacci sequence
+Return the code in backticks with no other text or description
+You should add comments to the code for explanation
+
+Code:
+===
+Prompt Generate a Python script
+The script should calculate the Fibonacci sequence
+Include comments in the code, and return in all backticks with no other text
+
+Code:
+===
