@@ -20,13 +20,13 @@ https://github.com/karpathy/minbpe/blob/master/exercise.md - reference
 - Understand the different approaches to tokenization
 
 #### Readings:
-[Tokenization in NLP](https://neptune.ai/blog/tokenization-in-nlp)
-[Standford Stemming Lemmatization lecture](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html)
+- 📖 [Tokenization in NLP](https://neptune.ai/blog/tokenization-in-nlp)
+- 📖 [Standford Stemming Lemmatization lecture](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html)
 
 #### Videos:
-[NLP Basics](https://www.youtube.com/watch?v=8F_ERPqN0T0)
-[Text preprocessing](https://www.youtube.com/watch?v=hhjn4HVEdy0)
-[Karpathy GPT tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
+- 📺 [NLP Basics](https://www.youtube.com/watch?v=8F_ERPqN0T0)
+- 📺 [Text preprocessing](https://www.youtube.com/watch?v=hhjn4HVEdy0)
+- 📺 [Karpathy GPT tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 
 ### Project 2 - Word2Vec
 
@@ -40,11 +40,11 @@ https://github.com/karpathy/minbpe/blob/master/exercise.md - reference
 )
 
 #### Readings:
-[TowardsDataScience](https://towardsdatascience.com/word2vec-explained-49c52b4ccb71)
-[GloVe Stanford](https://nlp.stanford.edu/projects/glove/)
+- 📖 [TowardsDataScience](https://towardsdatascience.com/word2vec-explained-49c52b4ccb71)
+- 📖 [GloVe Stanford](https://nlp.stanford.edu/projects/glove/)
 
 #### Videos:
-[Word2Vec Explained](https://www.youtube.com/watch?v=UqRCEmrv1gQ)
+- 📺 [Word2Vec Explained](https://www.youtube.com/watch?v=UqRCEmrv1gQ)
 
 ### Project 3 - BERT
 
@@ -56,10 +56,10 @@ https://github.com/karpathy/minbpe/blob/master/exercise.md - reference
 - Study BERT architecture and pre-training objectives.
 
 #### Readings:
-[TowardsDataScience](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
+- 📖 [TowardsDataScience](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 
 #### Videos:
-[BERT Explained](https://www.youtube.com/watch?v=xI0HHN5XKDo)
+- 📺 [BERT Explained](https://www.youtube.com/watch?v=xI0HHN5XKDo)
 
 ### Conclusion:
 
