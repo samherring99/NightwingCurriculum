@@ -1,14 +1,16 @@
 # Module 3: Prompt Engineering
 
+![alt text](https://media.licdn.com/dms/image/D5612AQExQRgbkb_S2w/article-inline_image-shrink_400_744/0/1693748745179?e=1721260800&v=beta&t=1iema6XN8Z1wI0AdBS4iKkAqBD7pAPBYHdfgHOcUvkk)
+
 ## Introduction
 
-[TODO] Introduction on what we aim to cover here and why
+This module aims to cover the different techniques used in prompt engineering at a high and low level. The below projects cover basic prompt engineering, RAG (retrieval augmented generation), CoT (Chain of Thought), ReAct (Reason + Action), and the DSPy prompt programming framework. Once you have completed this module you should fully understand the state of the art in prompt engineering, how to apply these technniques to your own prompts, and the benefits and drawbacks of each method.
 
 ## Projects
 
 ### Project 1 - Basic Prompt Engineering
 
-[TODO] Project 1 description brief
+Project 1 is basic prompt engineering. The goal is to create a list of prompts, iterate over them, and prompt an LLM. This is to show an introduciton to automated prompting, which we will build on later.
 
 #### Goals: 
 
@@ -20,13 +22,14 @@
 - 📖 [Prompt Engineering Basics](https://medium.com/academy-team/prompt-engineering-formulas-for-chatgpt-and-other-language-models-5de3a922356a)
 - 📖 [Prompt Engineering Continued](https://www.insidr.ai/advanced-guide-to-prompt-engineering/)
 
-
 #### Videos:
 - 📺 [Prompt Engineering Explained](https://www.youtube.com/watch?v=BzIF4hrEgyk)
 
+💻 [Notebook](https://github.com/samherring99/NightwingCurriculum/blob/main/module_3_prompt_engineering/module_3_project_1.ipynb)
+
 ### Project 2 - Retrieval Augmented Generation
 
-[TODO] Project 2 description brief
+Project 2 is to implement a basic RAG (Retrieval Augmented Generation) pipeline with a PDF document to illustrate how to build a knowledge base for accurate LLM inference. After completing this project, you should understand how RAG works and different use cases for it.
 
 #### Goals: 
 
@@ -42,9 +45,11 @@
 - 📺 [RAG Part 1](https://www.youtube.com/watch?v=2uMuqD4UvkA&pp=ygUecmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9u)
 - 📺 [RAG Part 2](https://www.youtube.com/watch?v=XctooiH0moI)
 
+💻 [Notebook](https://github.com/samherring99/NightwingCurriculum/blob/main/module_3_prompt_engineering/module_3_project_2.ipynb)
+
 ### Project 3 - Reason + Action = ReAct
 
-[TODO] Project 3 description brief
+Project 3 is to implement a basic ReAct prompt framework that breaks the model's answer into Thought, Observation, and Action. After completing this project, you should understand how to incorporate ReAct into your prompting and for what tasks this framework would be desirable.
 
 #### Goals: 
 
@@ -64,9 +69,11 @@
 - 📺 [CoT Explained](https://www.youtube.com/watch?v=b210W3JWOxw)
 - 📺 [Advanced Prompt Engineering Continued](https://www.youtube.com/watch?v=j320H2LFx-U)
 
+💻 [Notebook](https://github.com/samherring99/NightwingCurriculum/blob/main/module_3_prompt_engineering/module_3_project_3.ipynb)
+
 ### Project 4 - DSPy
 
-[TODO] Project 4 description brief
+Project 4 is a simple example of DSPy to get started with understanding the framework. After completing this project, you shoul dbe able to understand what DSPy is, what makes it special, and how to implemebnt basic uses of it.
 
 #### Goals: 
 
@@ -83,9 +90,11 @@
 - 📺 [DSPy Overview](https://www.youtube.com/watch?v=njVKMqs9lxU)
 - 📺 [DSPy Explained](https://www.youtube.com/watch?v=41EfOY0Ldkc)
 
+💻 [Notebook](https://github.com/samherring99/NightwingCurriculum/blob/main/module_3_prompt_engineering/module_3_project_4.ipynb)
+
 ### Project 5 - Automated Evaluation
 
-[TODO] Project 5 description brief
+Project 5 is the culmination of all the last projects in this module. The goal is to implement an advanced, automated prompt iteration and evaluation pipeline using DSPy. The provided notebook illustrates how this would be done for an automated coding assistant, with steps planned out as Signatures and clearly explained. After  ompleting this project, you should be fully versed in all main techniques used for prompt engineering lately and their differences, as well as how to implent these for future projects.
 
 #### Goals: 
 
@@ -100,10 +109,11 @@
 - 📖 [Iterative Prompt Engineering](https://betterprogramming.pub/steering-llms-with-prompt-engineering-dbaf77b4c7a1)
 - 📖 [LangChain DSPy](https://python.langchain.com/docs/integrations/providers/dspy)
 
-
 #### Videos:
 - 📺 [Iterative Prompt Engineering](https://www.youtube.com/watch?v=1c9iyoVIwDs)
 
+💻 [Notebook](https://github.com/samherring99/NightwingCurriculum/blob/main/module_3_prompt_engineering/module_3_project_5.ipynb)
+
 ### Conclusion:
 
-[TODO] Cover everything we should have learned in these projects
+Now that you have completed this module, you should fully understand the meaning of prompt engineering and different techniques used in production to validate and improve outputs. 
