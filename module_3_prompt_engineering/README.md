@@ -83,6 +83,27 @@
 - 📺 [DSPy Overview](https://www.youtube.com/watch?v=njVKMqs9lxU)
 - 📺 [DSPy Explained](https://www.youtube.com/watch?v=41EfOY0Ldkc)
 
+### Project 5 - Automated Evaluation
+
+[TODO] Project 5 description brief
+
+#### Goals: 
+
+- Evaluate the effectiveness of prompts through quantitative metrics and qualitative analysis
+- Assess how well prompts guide the model towards desired outcomes and user expectations
+- Consider the integration of RAG and Chain-of-Thought techniques
+- Collect feedback from users and domain experts to iteratively improve prompt design and effectiveness
+
+#### Readings:
+- 📖 [LLM Evaluation](https://quickstarts.snowflake.com/guide/prompt_engineering_and_llm_evaluation/index.html#0)
+- 📖 [LLM Evaluation Cnntinued](https://docs.humanloop.com/docs/evaluate-your-model)
+- 📖 [Iterative Prompt Engineering](https://betterprogramming.pub/steering-llms-with-prompt-engineering-dbaf77b4c7a1)
+- 📖 [LangChain DSPy](https://python.langchain.com/docs/integrations/providers/dspy)
+
+
+#### Videos:
+- 📺 [Iterative Prompt Engineering](https://www.youtube.com/watch?v=1c9iyoVIwDs)
+
 ### Conclusion:
 
 [TODO] Cover everything we should have learned in these projects
