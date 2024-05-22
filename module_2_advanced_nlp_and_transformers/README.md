@@ -42,13 +42,30 @@ https://github.com/karpathy/ng-video-lecture - reference etc
 #### Videos:
 - 📺 [T5 Continued](https://www.youtube.com/watch?v=91iLu6OOrwk)
 
-### Project 3 - Finetuning
+### Project 3 - Mixture of Experts
 
 [TODO] Project 3 description brief
 
 #### Goals: 
 
-- Lean techniques for fine-tuning pre-trained models for specific tasks
+- Understand the MoE architecture and its applications.
+- Study recent advancements and variants.
+
+#### Readings:
+- 📖 [Mixture of Experts Introduction](https://machinelearningmastery.com/mixture-of-experts/)
+- 📖 [Mixture of Experts Explained](https://www.tensorops.ai/post/what-is-mixture-of-experts-llm)
+- 📖 [Mixture of Experts Paper](https://arxiv.org/abs/1312.4314)
+
+#### Videos:
+- 📺 [Mixture of Experts Explained](https://www.youtube.com/watch?v=mwO6v4BlgZQ)
+
+### Project 4 - Finetuning
+
+[TODO] Project 4 description brief
+
+#### Goals: 
+
+- Learn techniques for fine-tuning pre-trained models for specific tasks
 - Understand model distillation: compressing large models into smaller ones
 - Parameter Efficient Finetuning - PeFT
 - Learn how LoRA works abnd how to implement it from scratch
