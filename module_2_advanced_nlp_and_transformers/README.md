@@ -1,6 +1,6 @@
 # Module 2: Advanced NLP and Transformers
 
-![alt text](/path/toimage)
+![alt text](https://github.com/samherring99/NightwingCurriculum/blob/main/module_2_advanced_nlp_and_transformers/image/image.jpeg)
 
 ## Introduction
 
