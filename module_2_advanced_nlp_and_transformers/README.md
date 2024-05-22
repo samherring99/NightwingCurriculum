@@ -8,47 +8,59 @@
 
 ### Project 1 - Generative Pretrained Transformers
 
-[TODO} Project 1 description brief
+[TODO] Project 1 description brief
 
 https://github.com/karpathy/ng-video-lecture - reference etc
 
 #### Goals: 
 
-- E
+- Understand self-attention mechanisms
+- Study the Transformer architecture
 
 #### Readings:
-- 📖 
+- 📖 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- 📖 [Transformers Introduction](https://www.turing.com/kb/brief-introduction-to-transformers-and-their-power)
+- 📖 [Attention Mechanism](https://machinelearningmastery.com/the-transformer-attention-mechanism/)
 
 #### Videos:
-- 
+- 📺 [Karpathy GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
-### Project 2 - TODO
+### Project 2 - Text-to-text Transfer Transformers
 
 [TODO] Project 2 description brief
 
 #### Goals: 
 
-- E
+- Explore XLNet, T5, and other variants
+- Understand their arcitectures and differences from classic GPT
 
 #### Readings:
-- 📖 
+- 📖 [XLNet](https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335)
+- 📖 [T5 Introduction](https://blog.research.google/2020/02/exploring-transfer-learning-with-t5.html)
+- 📖 [T5 Deep Dive](https://cameronrwolfe.substack.com/p/t5-text-to-text-transformers-part)
 
 #### Videos:
-- 📺 
+- 📺 [T5 Continued](https://www.youtube.com/watch?v=91iLu6OOrwk)
 
-### Project 3 - TODO
+### Project 3 - Finetuning
 
 [TODO] Project 3 description brief
 
 #### Goals: 
 
-- 
+- Lean techniques for fine-tuning pre-trained models for specific tasks
+- Understand model distillation: compressing large models into smaller ones
+- Parameter Efficient Finetuning - PeFT
+- Learn how LoRA works abnd how to implement it from scratch
+
 
 #### Readings:
-- 📖 
+- 📖 [Finetuning Introduction](https://www.turing.com/resources/finetuning-large-language-models)
+- 📖 [LoRA](https://towardsdatascience.com/understanding-lora-low-rank-adaptation-for-finetuning-large-models-936bce1a07c6)
+- 📖 [LLM Distillation](https://snorkel.ai/llm-distillation-techniques-to-explode-in-importance-in-2024/)
 
 #### Videos:
-- 📺 
+- 📺 [Finetuning with examples](https://www.youtube.com/watch?v=eC6Hd1hFvos)
 
 ### Conclusion:
 
