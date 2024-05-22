@@ -1,14 +1,16 @@
 # Module 0: Data Collection
 
+![alt text](https://images.prismic.io/turing/65980bec531ac2845a272689_Machine_Learning_4_11zon_0415e7dfea.webp?auto=format,compress)
+
 ## Introduction
 
-[TODO] Introduction on what we aim to cover here and why
+This module aims to cover best data collection practices for finding, retrieving, and preprocessing data for modern AI/ML tasks, specifically those with LLMs and diffusion models. After completing this, you should be able to organize and prepare a dataset for virtually any machine learning task rewuired today. This is meant to be a simple, higher-level overview, follow the code samples provided and the resources below.
 
 ## Projects
 
 ### Project 1 - Data Collection
 
-[TODO} Project 1 description brief
+Project 1 will be to implement a data collection script for a data source of your choosing. In the provided notebook, we are using Project Gutenberg to retrieve the full content of various books as a single text file. We will be using this website to gather data throughout this course.
 
 #### Goals: 
 
@@ -25,10 +27,11 @@
 - 📺 [How is data prepared for ML?](https://www.youtube.com/watch?v=P8ERBy91Y90)
 - 📺 [Data Collection Strategy - RapidAPI](https://www.youtube.com/watch?v=G7W1LzhbfGE)
 
+💻 [Notebook](https://github.com/samherring99/NightwingCurriculum/blob/main/module_0_data_collection/module_0_project_1.ipynb)
 
 ### Project 2 - Data Preprocessing
 
-[TODO] Project 2 description brief
+Project 2 will be to implement a full data preprocessing pipeline using `sklearn`. The intent here is to learn how to use things like imputation and scaling to help normalize our data. The project aims to capture methods of handling categorical variables such as one hot encoding. This is why random data is chosen instead of a text file like we did in Project 1.
 
 #### Goals: 
 
@@ -45,8 +48,10 @@
 #### Videos:
 - 📺 [Preprocessing](https://www.youtube.com/watch?v=4i9aiTjjxHY)
 - 📺 [Preprocessing Pt 2](https://www.youtube.com/watch?v=h1BnRBzYjYY)
-📺 [sklean preprocessing pipeline](https://www.youtube.com/watch?v=ZddUwo4R5ug)
+- 📺 [sklearn preprocessing pipeline](https://www.youtube.com/watch?v=ZddUwo4R5ug)
+
+💻 [Notebook](https://github.com/samherring99/NightwingCurriculum/blob/main/module_0_data_collection/module_0_project_2.ipynb)
 
 ## Conclusion
 
-[TODO] Conclusion about what we learned in the module
+Now that this module is completed, you should have a solid understanding of different sources to collect data for machine learning, different methods of organizing and preprocessing data, and ways to optimize this process in future efforts.
