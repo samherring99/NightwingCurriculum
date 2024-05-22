@@ -1,16 +1,16 @@
 # Module 1: Natural Language Processing Basics
 
+![alt text](https://codesrevolvewordpress.s3.us-west-2.amazonaws.com/revolveai/2022/05/15110810/natural-language-processing-techniques.png)
+
 ## Introduction
 
-[TODO] Introduction on what we aim to cover here and why
+This module aims to cover the basics of NLP (natural language processing), covering tokenization, vector embeddings, and simple language modeling. At the end of this module, you should fully understand tokenizers, word2vec, and the BERT language model, as well as how to implement them from scratch in the provided notebooks.
 
 ## Projects
 
 ### Project 1 - Tokenization
 
-[TODO} Project 1 description brief
-
-https://github.com/karpathy/minbpe/blob/master/exercise.md - reference
+Project 1 is to rebuild the GPT tokenizer, following Karpathy's (very insightful) video and [exercises](https://github.com/karpathy/minbpe/blob/master/exercise.md). The video and repository covers everything in depth, much better than I could here, and the accompanying readings cover lesser discussed pieces like stemming and lemmatization.
 
 #### Goals: 
 
@@ -28,9 +28,11 @@ https://github.com/karpathy/minbpe/blob/master/exercise.md - reference
 - 📺 [Text preprocessing](https://www.youtube.com/watch?v=hhjn4HVEdy0)
 - 📺 [Karpathy GPT tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 
+💻 [Notebook](https://github.com/samherring99/NightwingCurriculum/blob/main/module_1_nlp_basics/module_1_project_1.ipynb)
+
 ### Project 2 - Word2Vec
 
-[TODO] Project 2 description brief
+Project 2 is to implement word2vec from scratch, and to fully understand the importance and use of vector embeddings for semantic similarity. This piece is integral to understanding why language models like GPT work the way they do. Below readings also cover GloVe and FastText, alternative vector embedding techniques.
 
 #### Goals: 
 
@@ -46,9 +48,11 @@ https://github.com/karpathy/minbpe/blob/master/exercise.md - reference
 #### Videos:
 - 📺 [Word2Vec Explained](https://www.youtube.com/watch?v=UqRCEmrv1gQ)
 
+💻 [Notebook](https://github.com/samherring99/NightwingCurriculum/blob/main/module_1_nlp_basics/module_1_project_2.ipynb)
+
 ### Project 3 - BERT
 
-[TODO] Project 3 description brief
+Project 3 is to implement BERT (Bi-directional Encoder Representations from Transformers) from scratch, and to fully understand the usage of contextual word embeddings in language models.
 
 #### Goals: 
 
@@ -57,12 +61,13 @@ https://github.com/karpathy/minbpe/blob/master/exercise.md - reference
 
 #### Readings:
 - 📖 [TowardsDataScience](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
+- 📖 [BERT Paper](https://arxiv.org/abs/1810.04805)
 
 #### Videos:
 - 📺 [BERT Explained](https://www.youtube.com/watch?v=xI0HHN5XKDo)
 
+💻 [Notebook](https://github.com/samherring99/NightwingCurriculum/blob/main/module_1_nlp_basics/module_1_project_3.ipynb)
+
 ### Conclusion:
 
-[TODO] Cover everything we should have learned in these projects
-
-
+Now that you have completed this module, you should be able to implement basic tokenizers, vector embedding methods, and simple encoder based language models with full understanding of their internals.
