@@ -2,10 +2,11 @@
 
 ## Purpose ##
 
-- This repository contains the project-based learning and notes for the Nightwing AI/ML Curriculum.
-- It is intended to be a higher-level refresher for a large range of the developments in AI and machine learning since 2017 and their uses in production today.
--  Upon completing this course, you should be prepared to utilize LLMs and diffusion models in your future projects.
--  This repo also serves as my collection of notes as I went through these implementations, most of which are based off one or more repositories I found (which are linked below)
+- This repository contains the project-based learning and notes for the Nightwing AI/ML Curriculum
+- It is intended to be a higher-level refresher for a large range of the developments in AI and machine learning since 2017 and their uses in production today
+- The course is broken up into **Modules** - each **Module** has **Readings** and **Videos** to complete, as well as 2-5 **Projects** in the form of interactive Jupyter Notebooks
+- Upon completing this course, you should be prepared to utilize LLMs and diffusion models in your future projects
+- This repo also serves as my collection of notes as I went through these implementations, most of which are based off one or more repositories I found (which are linked below)
 
 ## Course Outline ##
 
@@ -23,9 +24,9 @@ Project 1 will be to implement a data collection script for a data source of you
 
 #### Goals: 
 
-- Identify relevant datasets for NLP tasks.
-- Acquire datasets from sources like Kaggle, academic repositories, or web scraping.
-- Ensure data quality and relevance to chosen tasks.
+- Identify relevant datasets for NLP tasks
+- Acquire datasets from sources like Kaggle, academic repositories, or web scraping
+- Ensure data quality and relevance to chosen tasks
 
 #### Readings:
 - 📖 [Data Collection Methods](https://labelyourdata.com/articles/data-collection-methods-AI)
@@ -44,9 +45,9 @@ Project 2 will be to implement a full data preprocessing pipeline using `sklearn
 
 #### Goals: 
 
-- Explore advanced preprocessing techniques such as handling imbalanced datasets, dealing with noisy text, and incorporating domain-specific knowledge.
-- Consider techniques like data augmentation to increase the diversity of training data.
-- Implement preprocessing pipelines using libraries like NLTK, spaCy, or scikit-learn.
+- Explore advanced preprocessing techniques such as handling imbalanced datasets, dealing with noisy text, and incorporating domain-specific knowledge
+- Consider techniques like data augmentation to increase the diversity of training data
+- Implement preprocessing pipelines using libraries like NLTK, spaCy, or scikit-learn
 
 ### Readings:
 - 📖 [TowardsDataScience](https://towardsdatascience.com/introduction-to-data-preprocessing-in-machine-learning-a9fa83a5dc9d)
@@ -79,7 +80,7 @@ Project 1 is to rebuild the GPT tokenizer, following Karpathy's (very insightful
 
 #### Goals: 
 
-- Preprocess text data by tokenizing, removing stop words, and performing stemming or lemmatization as necessary.
+- Preprocess text data by tokenizing, removing stop words, and performing stemming or lemmatization as necessary
 - Understand the basics and purpose of tokenization in NLP
 - Understabnd basic spproaches to stemming and lemmatization
 - Understand the different approaches to tokenization
@@ -101,7 +102,7 @@ Project 2 is to implement word2vec from scratch, and to fully understand the imp
 
 #### Goals: 
 
-- Understand Word2Vec, GloVe, and FastText.
+- Understand Word2Vec, GloVe, and FastText
 - Undertsand the importance of vector embeddings and similarity
 - Implement Word2Vec from scratch using [this tutoria](https://towardsdatascience.com/word2vec-with-pytorch-implementing-original-paper-2cd7040120b0
 )
@@ -121,8 +122,8 @@ Project 3 is to implement BERT (Bi-directional Encoder Representations from Tran
 
 #### Goals: 
 
-- Understand contextual word embeddings (e.g., ELMo, BERT).
-- Study BERT architecture and pre-training objectives.
+- Understand contextual word embeddings (e.g., ELMo, BERT)
+- Study BERT architecture and pre-training objectives
 
 #### Readings:
 - 📖 [TowardsDataScience](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
@@ -189,8 +190,8 @@ Project 3 is to implement a simple MoE (Mixture of Experts) model from scratch. 
 
 #### Goals: 
 
-- Understand the MoE architecture and its applications.
-- Study recent advancements and variants.
+- Understand the MoE architecture and its applications
+- Study recent advancements and variants
 
 #### Readings:
 - 📖 [Mixture of Experts Introduction](https://machinelearningmastery.com/mixture-of-experts/)
@@ -242,9 +243,9 @@ Project 1 is basic prompt engineering. The goal is to create a list of prompts, 
 
 #### Goals: 
 
-- Clearly define the task objectives and desired model outputs.
-- Identify key prompts that provide necessary context and guidance to the model.
-- Consider the target audience, domain-specific requirements, and potential biases when formulating prompts.
+- Clearly define the task objectives and desired model outputs
+- Identify key prompts that provide necessary context and guidance to the model
+- Consider the target audience, domain-specific requirements, and potential biases when formulating prompts
 
 #### Readings:
 - 📖 [Prompt Engineering Basics](https://medium.com/academy-team/prompt-engineering-formulas-for-chatgpt-and-other-language-models-5de3a922356a)
@@ -282,8 +283,8 @@ Project 3 is to implement a basic ReAct prompt framework that breaks the model's
 #### Goals: 
 
 - Explore advanced prompt engineering techniques such as ReAct and Chain-of-Thought
-- Explore Chain-of-Thought frameworks to create prompts that scaffold sequential thinking and reasoning processes within the model.
-- Evaluate the impact of Chain-of-Thought techniques and tool usage with LangChain model performance and user interaction.
+- Explore Chain-of-Thought frameworks to create prompts that scaffold sequential thinking and reasoning processes within the model
+- Evaluate the impact of Chain-of-Thought techniques and tool usage with LangChain model performance and user interaction
 
 #### Readings:
 - 📖 [Chain Of Thought](https://www.promptingguide.ai/techniques/cot)
@@ -397,3 +398,6 @@ Project 2 is to implement a basic form of StableDiffusion from scratch following
 
 Now that you have completed this module, you should understand the importance of multimodal embeddings, the uses and improvements it offers, as well as the techniques used for diffusion modeling and why this works. You should also understand how to re use these project implementations for future work.
 
+# Next steps
+
+Congratulations! You have completed the entire Nightwing AI/ML course. As this is a growing, developing project, more modules will be added and contents will be edited. This repository is meant to serve as a location for my notes and experiences learning about these topics in depth, I hope it can provide some insight to you for education as well! 
