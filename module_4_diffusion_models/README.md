@@ -19,7 +19,7 @@ Project 1 is to implement CLIP from scratch, using a Flickr images dataset to tr
 
 #### Readings:
 - 📖 [OpenAI CLIP](https://openai.com/research/clip)
-- 📖 [Multiomodal Embeddings](https://towardsdatascience.com/clip-model-and-the-importance-of-multimodal-embeddings-1c8f6b13bf72)
+- 📖 [Multimodal Embeddings](https://towardsdatascience.com/clip-model-and-the-importance-of-multimodal-embeddings-1c8f6b13bf72)
 
 #### Videos:
 - 📺 [OpenAI CLIP Explained](https://www.youtube.com/watch?v=T9XSU0pKX2E)
