@@ -14,9 +14,9 @@ Project 1 is basic prompt engineering. The goal is to create a list of prompts, 
 
 #### Goals: 
 
-- Clearly define the task objectives and desired model outputs.
-- Identify key prompts that provide necessary context and guidance to the model.
-- Consider the target audience, domain-specific requirements, and potential biases when formulating prompts.
+- Clearly define the task objectives and desired model outputs
+- Identify key prompts that provide necessary context and guidance to the model
+- Consider the target audience, domain-specific requirements, and potential biases when formulating prompts
 
 #### Readings:
 - 📖 [Prompt Engineering Basics](https://medium.com/academy-team/prompt-engineering-formulas-for-chatgpt-and-other-language-models-5de3a922356a)
@@ -33,8 +33,8 @@ Project 2 is to implement a basic RAG (Retrieval Augmented Generation) pipeline 
 
 #### Goals: 
 
-- Understand techniques to improve LLM output so it remains relevant, accurate, and useful in various contexts.
-- Implement RAG to augment prompt-based generation with information retrieval, enhancing the model's contextual understanding and response coherence.
+- Understand techniques to improve LLM output so it remains relevant, accurate, and useful in various contexts
+- Implement RAG to augment prompt-based generation with information retrieval, enhancing the model's contextual understanding and response coherence
 
 #### Readings:
 - 📖 [RAG Explained](https://www.smashingmagazine.com/2024/01/guide-retrieval-augmented-generation-language-models/)
@@ -54,8 +54,8 @@ Project 3 is to implement a basic ReAct prompt framework that breaks the model's
 #### Goals: 
 
 - Explore advanced prompt engineering techniques such as ReAct and Chain-of-Thought
-- Explore Chain-of-Thought frameworks to create prompts that scaffold sequential thinking and reasoning processes within the model.
-- Evaluate the impact of Chain-of-Thought techniques and tool usage with LangChain model performance and user interaction.
+- Explore Chain-of-Thought frameworks to create prompts that scaffold sequential thinking and reasoning processes within the model
+- Evaluate the impact of Chain-of-Thought techniques and tool usage with LangChain model performance and user interaction
 
 #### Readings:
 - 📖 [Chain Of Thought](https://www.promptingguide.ai/techniques/cot)

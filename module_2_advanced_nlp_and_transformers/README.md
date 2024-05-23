@@ -52,8 +52,8 @@ Project 3 is to implement a simple MoE (Mixture of Experts) model from scratch. 
 
 #### Goals: 
 
-- Understand the MoE architecture and its applications.
-- Study recent advancements and variants.
+- Understand the MoE architecture and its applications
+- Study recent advancements and variants
 
 #### Readings:
 - 📖 [Mixture of Experts Introduction](https://machinelearningmastery.com/mixture-of-experts/)

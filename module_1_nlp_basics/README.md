@@ -14,7 +14,7 @@ Project 1 is to rebuild the GPT tokenizer, following Karpathy's (very insightful
 
 #### Goals: 
 
-- Preprocess text data by tokenizing, removing stop words, and performing stemming or lemmatization as necessary.
+- Preprocess text data by tokenizing, removing stop words, and performing stemming or lemmatization as necessary
 - Understand the basics and purpose of tokenization in NLP
 - Understabnd basic spproaches to stemming and lemmatization
 - Understand the different approaches to tokenization
@@ -36,7 +36,7 @@ Project 2 is to implement word2vec from scratch, and to fully understand the imp
 
 #### Goals: 
 
-- Understand Word2Vec, GloVe, and FastText.
+- Understand Word2Vec, GloVe, and FastText
 - Undertsand the importance of vector embeddings and similarity
 - Implement Word2Vec from scratch using [this tutoria](https://towardsdatascience.com/word2vec-with-pytorch-implementing-original-paper-2cd7040120b0
 )
@@ -56,8 +56,8 @@ Project 3 is to implement BERT (Bi-directional Encoder Representations from Tran
 
 #### Goals: 
 
-- Understand contextual word embeddings (e.g., ELMo, BERT).
-- Study BERT architecture and pre-training objectives.
+- Understand contextual word embeddings (e.g., ELMo, BERT)
+- Study BERT architecture and pre-training objectives
 
 #### Readings:
 - 📖 [TowardsDataScience](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)

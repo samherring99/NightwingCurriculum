@@ -14,9 +14,9 @@ Project 1 will be to implement a data collection script for a data source of you
 
 #### Goals: 
 
-- Identify relevant datasets for NLP tasks.
-- Acquire datasets from sources like Kaggle, academic repositories, or web scraping.
-- Ensure data quality and relevance to chosen tasks.
+- Identify relevant datasets for NLP tasks
+- Acquire datasets from sources like Kaggle, academic repositories, or web scraping
+- Ensure data quality and relevance to chosen tasks
 
 #### Readings:
 - 📖 [Data Collection Methods](https://labelyourdata.com/articles/data-collection-methods-AI)
@@ -35,9 +35,9 @@ Project 2 will be to implement a full data preprocessing pipeline using `sklearn
 
 #### Goals: 
 
-- Explore advanced preprocessing techniques such as handling imbalanced datasets, dealing with noisy text, and incorporating domain-specific knowledge.
-- Consider techniques like data augmentation to increase the diversity of training data.
-- Implement preprocessing pipelines using libraries like NLTK, spaCy, or scikit-learn.
+- Explore advanced preprocessing techniques such as handling imbalanced datasets, dealing with noisy text, and incorporating domain-specific knowledge
+- Consider techniques like data augmentation to increase the diversity of training data
+- Implement preprocessing pipelines using libraries like NLTK, spaCy, or scikit-learn
 
 ### Readings:
 - 📖 [TowardsDataScience](https://towardsdatascience.com/introduction-to-data-preprocessing-in-machine-learning-a9fa83a5dc9d)
